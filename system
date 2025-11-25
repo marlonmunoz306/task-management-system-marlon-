@@ -1,0 +1,3 @@
+mkdir -p task-management-system/{app/{models,controllers,views},tests/{unit,integration,e2e},docs,.github/workflows}
+cd task-management-system
+git init
